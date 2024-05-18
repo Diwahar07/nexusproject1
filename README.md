@@ -39,32 +39,17 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+responsive log in and sign up page
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Screenshot 2024-05-18 123836](https://github.com/Diwahar07/nexusproject1/assets/88877768/40c6f137-c894-4463-af09-49cb056e4acf)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot 2024-05-18 123856](https://github.com/Diwahar07/nexusproject1/assets/88877768/3dd3c261-174d-47e9-a83f-e3704fc74996)
 
-### Code Splitting
+![Screenshot 2024-05-18 134756](https://github.com/Diwahar07/nexusproject1/assets/88877768/e58ead34-96e3-43ec-babf-341e25e67053)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Screenshot 2024-05-18 134706](https://github.com/Diwahar07/nexusproject1/assets/88877768/d266fff0-8297-49cb-bbf4-cfd991d71a23)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
